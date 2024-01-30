@@ -45,7 +45,7 @@ function Projects(props) {
           />
         </div>
         <div className="project-text-container">
-          <div className="project-title">Blackjack Card Counting Trainer</div>
+          <div className="project-title">Blackjack Card Counting Trainer (Work in Progress)</div>
           <div className="project-description">
             A tool that lets you play Blackjack and counts cards, allowing the user to train themselves
           </div>
