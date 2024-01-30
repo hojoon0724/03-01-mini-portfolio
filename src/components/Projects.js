@@ -4,7 +4,7 @@ function Projects(props) {
       <div className="project">
         <div className="project-photo">
           <img
-            src=""
+            src="https://img.freepik.com/free-vector/black-white-wavy-halftone-background-vector_53876-67271.jpg"
             alt=""
           />
         </div>
