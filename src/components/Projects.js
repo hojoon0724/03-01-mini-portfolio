@@ -4,7 +4,7 @@ function Projects(props) {
       <div className="project">
         <div className="project-photo">
           <img
-            src="https://img.freepik.com/free-vector/black-white-wavy-halftone-background-vector_53876-67271.jpg"
+            src="https://github.com/hojoon0724/03-01-mini-portfolio/blob/main/public/Screen%20Capture%20-%202024-01-29_22-51-33.png?raw=true"
             alt=""
           />
         </div>
@@ -15,13 +15,14 @@ function Projects(props) {
           </div>
           <div className="project-links">
             <a href="https://github.com/hojoon0724/seal_project1">GitHub</a>
+            <a href="https://seal-project1-dusky.vercel.app">Deployed Site</a>
           </div>
         </div>
       </div>
       <div className="project">
         <div className="project-photo">
           <img
-            src=""
+            src="https://github.com/hojoon0724/03-01-mini-portfolio/blob/main/public/Screen%20Capture%20-%202024-01-29_22-56-43.png?raw=true"
             alt=""
           />
         </div>
@@ -32,7 +33,7 @@ function Projects(props) {
           </div>
           <div className="project-links">
             <a href="https://github.com/hojoon0724/seal_project2">GitHub</a>
-            <a href="https://hk-seal-project2.onrender.com/">Deployed</a>
+            <a href="https://hk-seal-project2.onrender.com/">Deployed Site</a>
           </div>
         </div>
       </div>
@@ -52,6 +53,7 @@ function Projects(props) {
             <a href="https://github.com/hojoon0724/blackjack">GitHub</a>
             <a href="https://hk-seal-project2.onrender.com/">Deployed</a>
           </div>
+          ``
         </div>
       </div>
     </div>
