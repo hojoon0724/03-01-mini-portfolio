@@ -4,7 +4,7 @@ function Projects(props) {
       <div className="project">
         <div className="project-photo">
           <img
-            src="https://github.com/hojoon0724/03-01-mini-portfolio/blob/main/public/Screen%20Capture%20-%202024-01-29_22-51-33.png?raw=true"
+            src="https://github.com/hojoon0724/03-01-mini-portfolio/blob/main/public/project1-resized.png?raw=true"
             alt=""
           />
         </div>
@@ -22,7 +22,7 @@ function Projects(props) {
       <div className="project">
         <div className="project-photo">
           <img
-            src="https://github.com/hojoon0724/03-01-mini-portfolio/blob/main/public/Screen%20Capture%20-%202024-01-29_22-56-43.png?raw=true"
+            src="https://github.com/hojoon0724/03-01-mini-portfolio/blob/main/public/projec2-resized.png?raw=true`"
             alt=""
           />
         </div>
@@ -40,7 +40,7 @@ function Projects(props) {
       <div className="project">
         <div className="project-photo">
           <img
-            src=""
+            src="https://github.com/hojoon0724/03-01-mini-portfolio/blob/main/public/blackjackCounter-resized.png?raw=true`"
             alt=""
           />
         </div>
