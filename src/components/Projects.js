@@ -51,9 +51,7 @@ function Projects(props) {
           </div>
           <div className="project-links">
             <a href="https://github.com/hojoon0724/blackjack">GitHub</a>
-            <a href="https://hk-seal-project2.onrender.com/">Deployed</a>
           </div>
-          ``
         </div>
       </div>
     </div>
